@@ -29,22 +29,22 @@ MoodGroove is an emotion music recommender system that provides a unique and per
    streamlit run app.py
    ```
 
-2. Open your web browser and go to `http://localhost:8501` to access the Vibescape application.
+2. Open your web browser and go to `http://localhost:8501` to access the MoodGroove application.
 
 ## Emotion Detection
 
-Vibescape uses facial emotion detection to analyze the user's emotions. Make sure your device has a camera enabled to utilize this feature effectively.
+MoodGroove uses facial emotion detection to analyze the user's emotions. Make sure your device has a camera enabled to utilize this feature effectively.
 
 ## Supported Platforms
 
-Vibescape supports music streaming from the following platforms:
+MoodGroove supports music streaming from the following platforms:
 - Spotify
 - SoundCloud
 - YouTube
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to Vibescape, please follow these steps:
+Contributions are welcome! If you'd like to contribute to MoodGrave, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature/bugfix.
 3. Commit your changes and push to your fork.
