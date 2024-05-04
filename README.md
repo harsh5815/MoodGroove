@@ -1,21 +1,20 @@
-[![header](vibescape.gif)](https://vibescape.streamlit.app/)</br></br>
 
-Vibescape is an emotion music recommender system that provides a unique and personalized music streaming experience. It utilizes facial emotion detection to analyze the user's emotions and recommend songs that match their mood. The application supports streaming from popular platforms such as Spotify, SoundCloud, and YouTube.
 
-**Live Demo** <a href="https://vibescape.streamlit.app/">**here**</a>
+MoodGroove is an emotion music recommender system that provides a unique and personalized music streaming experience. It utilizes facial emotion detection to analyze the user's emotions and recommend songs that match their mood. The application supports streaming from popular platforms such as Spotify, SoundCloud, and YouTube.
+
 
 ## Features
-- **Emotion-based Music Recommendation:** Vibescape uses facial emotion detection to analyze the user's emotions and recommends songs that match their mood.
+- **Emotion-based Music Recommendation:** MoodGroove uses facial emotion detection to analyze the user's emotions and recommends songs that match their mood.
 - **Streaming from Multiple Platforms:** Users can stream music from their favorite platforms including Spotify, SoundCloud, and YouTube.
 - **Personalized Playlists:** The application creates personalized playlists based on the user's emotions and preferences.
-- **User-Friendly Interface:** Vibescape offers an intuitive and easy-to-use interface for a seamless music streaming experience.
+- **User-Friendly Interface:** MoodGroove offers an intuitive and easy-to-use interface for a seamless music streaming experience.
 
 ## Installation and Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/NebulaTris/vibescape.git
-   cd vibescape
+   git clone https://github.com/harsh5815/MoodGroove.git
+   cd MoodGroove
    ```
 
 2. Install the required dependencies using `pip`:
@@ -27,7 +26,7 @@ Vibescape is an emotion music recommender system that provides a unique and pers
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run 1_🎵_Homepage.py
+   streamlit run app.py
    ```
 
 2. Open your web browser and go to `http://localhost:8501` to access the Vibescape application.
@@ -51,8 +50,6 @@ Contributions are welcome! If you'd like to contribute to Vibescape, please foll
 3. Commit your changes and push to your fork.
 4. Submit a pull request with a detailed description of your changes.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
